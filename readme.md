@@ -1,3 +1,9 @@
+# My first tailwind website
+
+<a href='https://tailwind-manage-ssk.netlify.app/'>Visit</a>
+
+<p align='center'><img src='./img/ss1.png' /></p>
+
 #### npm init -y
 
 #### npm i -D tailwindcss // install tailwind as a dev dependency
